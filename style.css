@@ -1,0 +1,16 @@
+body{
+    background-image: url(./src/img/background.jpg);
+    background-repeat: none;
+    background-size:cover;
+}
+
+.car-container{
+    background-color: aliceblue;
+    padding: 12px;
+    min-width: 300px;
+    min-height: 200px;
+    width: 300px;
+    max-width: 1000px;
+    border-radius: 8px;
+    margin: 0 12PX;
+}
